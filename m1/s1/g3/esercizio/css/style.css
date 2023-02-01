@@ -46,6 +46,7 @@
 
 .sally {
     color: rgb(164, 162, 150);
+    text-align: center;
 }
 
 .featured {
@@ -62,6 +63,12 @@
     color: rgb(50, 50, 50);
     font-weight: normal;
 }
+
+/*INIZIO EXTRA*/
+.spazio {
+    padding-top: 15px;
+}
+/*FINE EXTRA*/
 
 .bold {
     color: rgb(50, 50, 50);
