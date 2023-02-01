@@ -1,4 +1,84 @@
-body {
-    padding-left: 30px;
-    padding-right: 30px;
+#header {
+    text-align: center;
 }
+
+.logo {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 70px;
+}
+
+.bordo {
+    border-bottom: 2px solid;
+    border-color: #d8ae457d;
+}
+
+.div1 {
+    background-color: rgba(255, 255, 224, 0.51);
+    /*INIZIO EXTRA*/
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: rgb(0, 83, 83);
+    /*FINE EXTRA*/
+}
+
+.span1 {
+    font-weight: bold;
+}
+
+.main {
+    margin: 0 auto;
+    width: 700px;
+}
+
+.h1 {
+    text-align: center;
+    color: rgb(50, 50, 50);
+    font-weight: bolder;
+}
+
+.img {
+    /*INIZIO EXTRA*/
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 7px 7px 7px #3737371d;
+    /*FINE EXTRA*/
+}
+
+.sally {
+    color: rgb(164, 162, 150);
+}
+
+.featured {
+    border-left: 3px solid;
+    padding-left: 10px;
+    border-color: #d8ae45;
+}
+
+.pfeatured {
+    color: red;
+}
+
+.h2 {
+    color: rgb(50, 50, 50);
+    font-weight: normal;
+}
+
+.bold {
+    color: rgb(50, 50, 50);
+    font-weight: bold;
+}
+
+.ul {
+    line-height: 30px;
+}
+
+.linea {
+    border-bottom: 1px solid;
+    border-color: #45d8d87f;
+}
+
+/*INIZIO EXTRA*/
+a:link {
+    color: rgb(22, 145, 139);
+}
+/*FINE EXTRA*/
