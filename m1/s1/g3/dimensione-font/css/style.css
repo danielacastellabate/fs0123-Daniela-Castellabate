@@ -1,0 +1,38 @@
+/*
+Posso modificare la dimensione assoluta di tutti i testi del body
+
+body {
+    font-size: 20px;
+}
+*/
+
+@font-face {
+    font-family: FontPersonale;
+    src: url(../fonts/coolvetica\ compressed\ hv.otf) format('woff2');
+}
+
+:root {
+    font-size: 25px;
+}
+
+#t1 {
+    font-size: 1rem;
+    color: #fc7;
+    font-family: FontPersonale;
+}
+
+#t2 {
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.5);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+
+#parent {
+    font-size: 50px;
+}
+
+#t3 {
+    font-size: 1em;
+    font-weight: bold;
+}
